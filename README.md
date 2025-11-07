@@ -61,6 +61,7 @@ Prerendering module for JavaScript websites. Enhance SEO and bot visibility by s
 
 ## 💬 Connect With Us
 
+- **LinkedIn**: [Utility Server](https://www.linkedin.com/showcase/utility-server/)
 - **Discord**: [Join our community](https://discord.gg/8ZW5QzCj)
 - **Telegram**: [@utilityserver](https://t.me/utilityserver)
 - **Email**: [enquiry@utility-server.com](mailto:enquiry@utility-server.com)
