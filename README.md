@@ -18,28 +18,30 @@
 ### [APIs](https://apis.utility-server.com/)
 <img src="https://customer-assets.emergentagent.com/job_utility-console/artifacts/zm6gaif4_favicon-4X.png" alt="APIs" width="50"/>
 
-Comprehensive API documentation and endpoints for seamless integration.
+Complete API reference for TTS Utility Server with 20+ endpoints for authentication, key management, logging, and Spider module integration.
 
 ### [Documents](https://documents.utility-server.com/)
-Technical documentation and guides for all Utility Server services.
+
+Legal policies, compliance documentation, terms & conditions, privacy policy, SLA, and corporate information for Utility Server.
 
 ### [CLI Client](https://cli-client.utility-server.com/)
-Command-line interface tools and utilities for developers.
+
+Command-line tool for managing Utility Server operations including configuration, client onboarding, caching, logging, and monitoring.
 
 ### [Rhino](https://rhino.utility-server.com/)
 <img src="https://customer-assets.emergentagent.com/job_utility-console/artifacts/zb3qp3bh_logo-RHINO-small.png" alt="Rhino" width="50"/>
 
-Powerful processing and automation engine.
+Edge caching module for HTML optimization. Lightning-fast delivery with in-memory caching, smart invalidation, and seamless SSR/SSG integration.
 
 ### [Marlin](https://marlin.utility-server.com/)
 <img src="https://customer-assets.emergentagent.com/job_utility-console/artifacts/6y8ib5aw_logo-marlin.png" alt="Marlin" width="50"/>
 
-Fast and efficient data processing service.
+AI-powered image optimization and CDN service. Real-time processing with WebP/AVIF support, reducing CDN costs by up to 40%.
 
 ### [Spider](https://spider.utility-server.com/)
 <img src="https://customer-assets.emergentagent.com/job_utility-console/artifacts/18uclj6b_round-logo-spider.png" alt="Spider" width="50"/>
 
-Web crawling and data extraction platform.
+Prerendering module for JavaScript websites. Enhance SEO and bot visibility by serving pre-rendered content to crawlers and search engines.
 
 ---
 
