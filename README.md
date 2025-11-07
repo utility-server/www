@@ -1,7 +1,7 @@
 # Utility Server - Technical Documentation Hub | SPIDER, RHINO, MARLIN
 
 <p align="center">
-  <img src="https://customer-assets.emergentagent.com/job_utility-console/artifacts/ur8mgrjx_logo-4X.png" alt="Utility Server Logo - Web Performance Optimization" width="300"/>
+  <img src="./images/logo-main.png" alt="Utility Server Logo - Web Performance Optimization" width="300"/>
 </p>
 
 <h2 align="center">Technical Documentation Hub for Web Performance Optimization</h2>
@@ -27,7 +27,7 @@
 **Utility Server** provides enterprise-grade web performance optimization tools and comprehensive technical documentation for developers.
 
 ### [📚 APIs](https://apis.utility-server.com/) - Complete API Documentation
-<img src="https://customer-assets.emergentagent.com/job_utility-console/artifacts/zm6gaif4_favicon-4X.png" alt="Utility Server API Documentation" width="50"/>
+<img src="./images/logo-favicon.png" alt="Utility Server API Documentation" width="50"/>
 
 **Complete API reference** for TTS Utility Server with **20+ endpoints** for authentication, key management, logging, and Spider module integration. RESTful API with comprehensive examples and use cases.
 
@@ -67,7 +67,7 @@
 ---
 
 ### [⚡ RHINO](https://rhino.utility-server.com/) - Edge HTML Caching
-<img src="https://customer-assets.emergentagent.com/job_utility-console/artifacts/zb3qp3bh_logo-RHINO-small.png" alt="RHINO - Edge Caching Module" width="50"/>
+<img src="./images/logo-rhino.png" alt="RHINO - Edge Caching Module" width="50"/>
 
 **Edge caching module for HTML optimization.** Lightning-fast content delivery with in-memory caching, smart invalidation, and seamless SSR/SSG integration. Supercharge your website performance.
 
@@ -81,7 +81,7 @@
 ---
 
 ### [🖼️ MARLIN](https://marlin.utility-server.com/) - AI Image Optimization & CDN
-<img src="https://customer-assets.emergentagent.com/job_utility-console/artifacts/6y8ib5aw_logo-marlin.png" alt="MARLIN - AI Image Optimization" width="50"/>
+<img src="./images/logo-marlin.png" alt="MARLIN - AI Image Optimization" width="50"/>
 
 **AI-powered image optimization and CDN service.** Real-time processing with WebP/AVIF support, **reducing CDN costs by up to 40%**. Advanced format conversion and intelligent optimization.
 
@@ -95,7 +95,7 @@
 ---
 
 ### [🕷️ SPIDER](https://spider.utility-server.com/) - JavaScript Prerendering for SEO
-<img src="https://customer-assets.emergentagent.com/job_utility-console/artifacts/18uclj6b_round-logo-spider.png" alt="SPIDER - Prerendering Service" width="50"/>
+<img src="./images/logo-spider.png" alt="SPIDER - Prerendering Service" width="50"/>
 
 **Prerendering module for JavaScript websites.** Enhance SEO and bot visibility by serving pre-rendered content to crawlers and search engines. Perfect for React, Vue, Angular, and other SPA frameworks.
 
